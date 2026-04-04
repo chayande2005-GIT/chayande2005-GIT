@@ -13,13 +13,13 @@ I’m currently working on: Software based full stack projects<br>I’m looking 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chayande2005-GIT&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chayande2005-GIT&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=chayande2005-GIT&theme=tokyonight&no-frame=true&margin-w=10)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=chayande2005-GIT&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/pin/?username=chayande2005-GIT&repo=password-vault&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chayande2005-GIT&icon=10&color=0)](https://visitcount.itsvg.in)
