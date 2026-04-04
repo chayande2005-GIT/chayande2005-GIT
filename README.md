@@ -12,14 +12,14 @@ I’m currently working on: Software based full stack projects<br>I’m looking 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=chayande2005-GIT&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chayande2005-GIT&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=chayande2005-GIT&theme=tokyonight&no-frame=true&margin-w=10)
+<!-- ## 🏆 GitHub Trophies -->
+<!-- ![](https://github-profile-trophy.vercel.app/?username=chayande2005-GIT&theme=tokyonight&no-frame=true&margin-w=10) -->
 
-### ✍️ Random Dev Quote
+### ✍️ Dev's Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-readme-stats.vercel.app/api/pin/?username=chayande2005-GIT&repo=password-vault&theme=tokyonight)
+<!-- ### 🔝 Top Contributed Repo
+![](https://github-readme-stats.vercel.app/api/pin/?username=chayande2005-GIT&repo=password-vault&theme=tokyonight) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chayande2005-GIT&icon=10&color=0)](https://visitcount.itsvg.in)
